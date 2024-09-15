@@ -5,7 +5,7 @@
     "$className": "DataModel",
     "ReplicatedStorage": {
       "TFT": {
-        "$path": "src/shared",
+        "$path": "dist/shared",
         "packages": {
           "$path": "Packages"
         }
@@ -13,13 +13,13 @@
     },
     "ServerScriptService": {
       "TFT": {
-        "$path": "src/server"
+        "$path": "dist/server"
       }
     },
     "StarterPlayer": {
       "StarterPlayerScripts": {
         "TFT": {
-          "$path": "src/client"
+          "$path": "dist/client"
         }
       }
     }

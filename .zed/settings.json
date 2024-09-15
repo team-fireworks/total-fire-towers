@@ -22,7 +22,10 @@
           "require": {
             "mode": "relativeToFile",
             "directoryAliases": {
-              "@lune/": "~/.lune/.typedefs/0.8.8/"
+              "@lune/": "~/.lune/.typedefs/0.8.8/",
+              "@client/": "src/client",
+              "@shared/": "src/shared",
+              "@server/": "src/server"
             }
           }
         },
